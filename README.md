@@ -5,7 +5,7 @@ This repository aims to be a collection of loose editorial and style rules, coll
 
 # Contents
 - [Links](#links)
-- Guidelines
+- [Guidelines](#guidelines)
 
 
 
@@ -20,7 +20,11 @@ Links to resources will be present here. When possible, there will be links to o
 
 
 
+<h1 id='guidelines'>Guidelines</h1>
 
+Below are general guidelines and heuristics based on available published style rules and examples of usage from major publications.
+
+When sources are conflicting, the most common usage will be used except in cases where compelling evidence in support of an alternate usage exists.
 
 ## Blockchain
 

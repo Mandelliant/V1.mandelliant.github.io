@@ -34,7 +34,7 @@
 
 <h2 id='sp'>Snowplow Analytics</h2>
 
-[**How data ownership makes you a more effective data scientist**](https://snowplowanalytics.com/blog/2019/02/05/how-data-ownership-makes-you-a-more-effectiv e-data-scientist/)
+[**How data ownership makes you a more effective data scientist**](https://snowplowanalytics.com/blog/2019/02/05/how-data-ownership-makes-you-a-more-effective-data-scientist/)
 
 [**Self-describing data becomes self-policing data**](https://snowplowanalytics.com/blog/2018/08/08/self-describing-data-becomes-self-policing-data/)
 

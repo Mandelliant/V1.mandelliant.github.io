@@ -38,9 +38,9 @@
 
 [**Self-describing data becomes self-policing data**](https://snowplowanalytics.com/blog/2018/08/08/self-describing-data-becomes-self-policing-data/)
 
-[**Understanding anonymization and pseudonymization in GDPR compliance**](https://snowplowanalytics.com/blog/2018/03/02/understanding-the-role-of-anonymization-and-p seudonymization-in-gdpr/)
+[**Understanding anonymization and pseudonymization in GDPR compliance**](https://snowplowanalytics.com/blog/2018/03/02/understanding-the-role-of-anonymization-and-pseudonymization-in-gdpr/)
 
-[**Product analytics series part one**](https://snowplowanalytics.com/blog/2018/01/19/product-analytics-part-one-data-and-digital-prod ucts/)
+[**Product analytics series part one**](https://snowplowanalytics.com/blog/2018/01/19/product-analytics-part-one-data-and-digital-products/)
 
 
 

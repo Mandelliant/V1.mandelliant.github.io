@@ -1,6 +1,3 @@
-# Anthony Mandelli writing samples
-
-
 # Organizations / Publications
 - [Numerai](#Numerai)
 - [TQ Tezos](#tq)
@@ -9,7 +6,7 @@
 - [CryptoCoinsNews](#ccn)
 - [Personal Blog](#personal)
 
-
+***
 
 
 <h2 id='Numerai'>Numerai</h2>
@@ -20,7 +17,7 @@
 
 [**Office Hours with Arbitrage, Season 2 Episode 3**](https://docs.numer.ai/office-hours-with-arbitrage/office-hours-recaps-season-2/ohwa-s02e03)
 
-
+***
 
 
 <h2 id='tq'>TQ Tezos</h2>
@@ -29,7 +26,7 @@
 
 [**Preparing for AZTEC Ignition**](https://medium.com/tqtezos/preparing-for-aztec-ignition-662610c1801b)
 
-
+***
 
 
 <h2 id='sp'>Snowplow Analytics</h2>
@@ -42,7 +39,7 @@
 
 [**Product analytics series part one**](https://snowplowanalytics.com/blog/2018/01/19/product-analytics-part-one-data-and-digital-products/)
 
-
+***
 
 <h2 id='bitclave'>BitClave</h2>
 
@@ -50,7 +47,7 @@
 
 [**Blockchain megatrends for 2017**](https://medium.com/@BitClave/blockchain-megatrends-for-2017-799f497632ea)
 
-
+***
 
 
 <h2 id='ccn'>CryptoCoinsNews</h2>
@@ -61,7 +58,7 @@
 
 [**In the search for economic stability, is Bitcoin the saving grace?**](https://www.ccn.com/search-economic-stability-bitcoin-saving-grace)
 
-
+***
 
 
 <h2 id='personal'>Personal Blog</h2>

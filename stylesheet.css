@@ -63,6 +63,7 @@ body {
 #section-box {
   border: 1px solid;
   padding: 10px;
+  margin-right: 50;
   box-shadow: 5px 10px #778899;
 }
 

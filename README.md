@@ -8,6 +8,7 @@
 
 ***
 
+New section
 
 <h2 id='Numerai'>Numerai</h2>
 
@@ -66,7 +67,3 @@
 [**Ethereum’s existence means bitcoin worked**](https://mandelliant.blogspot.com/2017/04/ethereums-existence-means-bitcoin-worked.html)
 
 [**Hedging your bets**](https://mandelliant.blogspot.com/2017/03/hedging-your-bets.html)
-
-
-
-

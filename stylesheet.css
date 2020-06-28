@@ -60,6 +60,11 @@ body {
     background-color: #dce0e5;
 }
 
+section-box {
+  border: 1px solid;
+  padding: 10px;
+  box-shadow: 5px 10px #778899;
+}
 
 
 

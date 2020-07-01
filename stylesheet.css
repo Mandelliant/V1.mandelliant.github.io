@@ -10,7 +10,7 @@ h3 {
     text-decoration: none;
 }
 
-a {
+a:link {
     font-family: 'Rubik'
     color: #a433f1;
     text-decoration: none;
